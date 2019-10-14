@@ -52,7 +52,7 @@ const inventory = {
             price: 20000,
             quantity: 4,
         }
-    ]
+    ],
 };
 //bai 4 + 5 + 6 + 7:
 let brand = prompt('Which brand?').toLowerCase();
